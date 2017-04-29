@@ -1,0 +1,2 @@
+https://github.com/Piwigo/LanguageSwitch.git
+7956b2eb7e62740ba4700b0e15924004dd108a31 2016-10-26 06:41:34 +0200
